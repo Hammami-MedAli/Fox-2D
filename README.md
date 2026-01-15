@@ -40,7 +40,7 @@ You can download the full Windows build here:
 
 ## 📸 Screenshots
 
-<img src="level1.png" width="300" /> <img src="level2.png" width="300" /> <img src="level3.png" width="300" /> 
+<img src="level1.png" width="250" /> <img src="level2.png" width="250" /> <img src="level3.png" width="250" /> 
 
 
 <img src="Options Menu.png" width="300" /> <img src="Pause Menu.png" width="300" />
